@@ -1,0 +1,15 @@
+                 Holiday/Occasion/Festival             Date          Day
+0    Birthday of Sri Guru Gobind Singh Ji      17thJanuary    Wednesday 
+1                            Republic Day     26th January       Friday 
+2              Sri Guru Ravi Dass Jayanti    24th February     Saturday 
+3                                    Holi       25th March       Monday 
+4                             Id-ul-Fitr*       11th April     Thursday 
+5                    Id-ul-Zuha (Bakrid)*         17thJune       Monday 
+6                        Independence Day      15th August     Thursday 
+7                  Mahatma Gandhi Jayanti      2nd October    Wednesday 
+8                                Dussehra     12th October     Saturday 
+9        Birthday of Maharishi Valmiki Ji     17th October     Thursday 
+10                                 Diwali     31st October     Thursday 
+11      Birthday of Sri Guru Nanak Dev Ji    15th November       Friday 
+12                              Christmas    25th December    Wednesday 
+
